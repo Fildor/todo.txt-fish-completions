@@ -7,4 +7,4 @@ Friendly Shell completions for the [todo.txt-cli](https://github.com/todotxt/tod
 
 ## Installation
 - Download or clone this Repo
-- Copy todo.sh.fish to directory `$HOME/<user>/.config/fish/completions/`
+- Copy todo.sh.fish to directory `$HOME/.config/fish/completions/`

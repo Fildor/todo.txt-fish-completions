@@ -2,7 +2,7 @@
 Friendly Shell completions for the [todo.txt-cli](https://github.com/todotxt/todo.txt-cli)
 
 ## Prerequisites
-- Fish Shell
+- [Fish](https://fishshell.com/) Shell
 - [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) installed
 
 ## Installation

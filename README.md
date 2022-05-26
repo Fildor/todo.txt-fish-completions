@@ -1,9 +1,9 @@
 # todo.txt-fish-completions
-Friendly Shell completions for the todo.txt-cli
+Friendly Shell completions for the [todo.txt-cli](https://github.com/todotxt/todo.txt-cli)
 
 ## Prerequisites
 - Fish Shell
-- todo.txt-cli installed
+- [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) installed
 
 ## Installation
 - Download or clone this Repo

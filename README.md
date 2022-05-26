@@ -1,2 +1,10 @@
 # todo.txt-fish-completions
 Friendly Shell completions for the todo.txt-cli
+
+## Prerequisites
+- Fish Shell
+- todo.txt-cli installed
+
+## Installation
+- Download or clone this Repo
+- Copy todo.sh.fish to directory '$HOME/<user>/.config/fish/completions/'
